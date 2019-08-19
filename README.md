@@ -5,17 +5,17 @@ the test image rendered as html for easy inspection.
 
 ## Normal EXIF orientation
 
-* exif-orientation-f1.jpg orientation 1
-* exif-orientation-f2.jpg orientation 2
-* exif-orientation-f3.jpg orientation 3
-* exif-orientation-f4.jpg orientation 4
-* exif-orientation-f5.jpg orientation 5
-* exif-orientation-f6.jpg orientation 6
-* exif-orientation-f7.jpg orientation 7
-* exif-orientation-f8.jpg orientation 8
+* exif-orientation-f1.jpg _exif orientation 1_
+* exif-orientation-f2.jpg _exif orientation 2_
+* exif-orientation-f3.jpg _exif orientation 3_
+* exif-orientation-f4.jpg _exif orientation 4_
+* exif-orientation-f5.jpg _exif orientation 5_
+* exif-orientation-f6.jpg _exif orientation 6_
+* exif-orientation-f7.jpg _exif orientation 7_
+* exif-orientation-f8.jpg _exif orientation 8_
 
 ## Abnormal EXIF orientation
 
-* exif-orientation-fi.jpg invalid exif orientation value 9
-* exif-orientation-fm.jpg two exif orientations, value 1 and value 2
-* exif-orientation-fn.jpg no exif orientation
+* exif-orientation-fi.jpg _invalid exif orientation value 9_
+* exif-orientation-fm.jpg _two exif orientations, value 1 and value 2_
+* exif-orientation-fn.jpg _no exif orientation_
