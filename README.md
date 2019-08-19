@@ -16,6 +16,6 @@ the test image rendered as html for easy inspection.
 
 ## Abnormal EXIF orientation
 
-* exif-orientation-fi.jpg invalid orientation value 9
-* exif-orientation-fm.jpg mutiple orientation 1 and 2
+* exif-orientation-fi.jpg invalid exif orientation value 9
+* exif-orientation-fm.jpg two exif orientations, value 1 and value 2
 * exif-orientation-fn.jpg no exif orientation
