@@ -1,6 +1,6 @@
 # jpg-exif-test-images
 
-JPEG format EXIF orientation test images, which you may use for your testing purposes. Files of the same name .html contain the content of the of that test image rendered as html for inspection.
+JPEG format EXIF orientation test images, which you may use for your testing purposes. Files of the same name .html contain the content of that test image rendered as html for inspection.
 
 ## Normal EXIF orientation
 
